@@ -1,0 +1,2 @@
+# assets-erkztw
+static assets
